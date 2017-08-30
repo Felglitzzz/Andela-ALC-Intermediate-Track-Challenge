@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:3:5-58
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Mind Smith\.android\build-cache\675d0bd26bf788443e8a1ccdc81bf3478f41cb02\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Mind Smith\.android\build-cache\31909f988b4239e671c78a651e4b7f6b1e8e3653\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Mind Smith\.android\build-cache\d5d17411faa13028c48b0ee60a0a9429592e917c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Mind Smith\.android\build-cache\d618ab2b0757dda6c53578b48d47190f2e147ad5\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Mind Smith\.android\build-cache\c4529df6e5cce9f6479a49a128a8b3efcc63cdf9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Mind Smith\.android\build-cache\f769bb6e427780b9f4cdc66c4e75ee4511668bce\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Mind Smith\.android\build-cache\a5b0fb08aae81d0b2206b2748ccafcf6d40c41c5\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Mind Smith\.android\build-cache\54e9bbd1f0fb77b206cdc92674e7361b253e63d9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Mind Smith\.android\build-cache\8416ecf270e7d41eb2be617620d6127040e55b7e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Mind Smith\.android\build-cache\73be30a30d85c1a3c21e34d21d6681a70d244638\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.intermediatetrack.Javadevelopersinlagos.activity.MainActivity
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:16:19-99
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.intermediatetrack.Javadevelopersinlagos.activity.ProfilesActivity
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:23:9-28:20
+	android:label
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:24:13-41
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:23:19-103
+intent-filter#android.intent.action.VIEW
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:25:13-27:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml:26:25-66
+uses-sdk
+INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Mind Smith\.android\build-cache\675d0bd26bf788443e8a1ccdc81bf3478f41cb02\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Mind Smith\.android\build-cache\31909f988b4239e671c78a651e4b7f6b1e8e3653\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Mind Smith\.android\build-cache\d5d17411faa13028c48b0ee60a0a9429592e917c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Mind Smith\.android\build-cache\d618ab2b0757dda6c53578b48d47190f2e147ad5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Mind Smith\.android\build-cache\c4529df6e5cce9f6479a49a128a8b3efcc63cdf9\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\Mind Smith\.android\build-cache\f769bb6e427780b9f4cdc66c4e75ee4511668bce\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\Mind Smith\.android\build-cache\a5b0fb08aae81d0b2206b2748ccafcf6d40c41c5\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\Mind Smith\.android\build-cache\570645f772d40c6f131b003907b9d139c87ddcc7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Mind Smith\.android\build-cache\54e9bbd1f0fb77b206cdc92674e7361b253e63d9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Mind Smith\.android\build-cache\8416ecf270e7d41eb2be617620d6127040e55b7e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.2.0] C:\Users\Mind Smith\.android\build-cache\73be30a30d85c1a3c21e34d21d6681a70d244638\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.2.0] C:\Users\Mind Smith\.android\build-cache\675d0bd26bf788443e8a1ccdc81bf3478f41cb02\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\src\main\AndroidManifest.xml

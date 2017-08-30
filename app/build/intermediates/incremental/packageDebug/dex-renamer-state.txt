@@ -1,0 +1,7 @@
+#Tue Aug 29 19:53:51 GMT+01:00 2017
+base.0=C\:\\Users\\Mind Smith\\Desktop\\Laoluwaz Folder\\compressed\\Andela-Challenge-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25cafa46f3274320be234999614061aab01b909c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Mind Smith\\Desktop\\Laoluwaz Folder\\compressed\\Andela-Challenge-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d2d3a4b91e45749ea4c3ed7ce658c162f846d0b8\\classes.dex
+base.1=C\:\\Users\\Mind Smith\\Desktop\\Laoluwaz Folder\\compressed\\Andela-Challenge-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d2d3a4b91e45749ea4c3ed7ce658c162f846d0b8
+file.0=C\:\\Users\\Mind Smith\\Desktop\\Laoluwaz Folder\\compressed\\Andela-Challenge-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_25cafa46f3274320be234999614061aab01b909c\\classes.dex

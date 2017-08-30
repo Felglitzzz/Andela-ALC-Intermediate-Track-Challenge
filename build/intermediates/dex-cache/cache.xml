@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="36737e11d1e623e8e2c4887a7031a43ef7a30c76">
+        <dex dex="C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_25cafa46f3274320be234999614061aab01b909c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Mind Smith\Desktop\Laoluwaz Folder\compressed\Andela-Challenge-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d2d3a4b91e45749ea4c3ed7ce658c162f846d0b8\classes.dex" />
+    </item>
+
+</items>
